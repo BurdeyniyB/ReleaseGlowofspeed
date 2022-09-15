@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"3bc8d1a9-e086-47b5-80ec-30cb656ed49a\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"version\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"1.023.5\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"33f7a30b-4efc-4c81-9063-9fecec216125\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"ApplicationURL\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"https://play.google.com/store/apps/details?id=com.DefaultCompany.Gabytest\"\r\n   
+    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"3bc8d1a9-e086-47b5-80ec-30cb656ed49a\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"version\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"1.023.5\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"33f7a30b-4efc-4c81-9063-9fecec216125\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"ApplicationURL\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"https://play.google.com/store/apps/details?id=com.DefaultCompany.Gabytest\"\r\n   
+    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"6c10ff4b-468a-4d6a-9b3d-4593798ce42b\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"a8f57069-40e9-46ff-8c9a-b36889eeffd4\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2022-09-07T16:37:02Z\",\r\n    \"updatedAt\":
+    \"2022-09-07T16:37:02Z\"\r\n  }\r\n]"

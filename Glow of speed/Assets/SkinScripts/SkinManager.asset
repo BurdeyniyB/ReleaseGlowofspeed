@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50edfc97d2b552b498f73b8a7b5da8e1, type: 3}
+  m_Name: SkinManager
+  m_EditorClassIdentifier: 
+  skins:
+  - cost: 0
+    sprite: {fileID: 21300000, guid: 4a6dea37477e6544dba331ca806ebb63, type: 3}
+  - cost: 8000
+    sprite: {fileID: 21300000, guid: 531f6b3809718e549b159be6753510bf, type: 3}
+  - cost: 13000
+    sprite: {fileID: 21300000, guid: f330905974b95164dbbc95a136b0addb, type: 3}
+  - cost: 18000
+    sprite: {fileID: 21300000, guid: 511a327945c696c45a8ff3d3cc33fb5d, type: 3}
+  - cost: 22000
+    sprite: {fileID: 21300000, guid: 77583aed22367fb47a329c89b9375fe8, type: 3}
+  - cost: 34000
+    sprite: {fileID: 21300000, guid: 196442ccee3c3c84dab2cf77202882a0, type: 3}
+  - cost: 40000
+    sprite: {fileID: 21300000, guid: ebacf7856d947c140ba75ef8921527b7, type: 3}
+  - cost: 48000
+    sprite: {fileID: 21300000, guid: 0e1025ff8061b4940badd7ba76e8c0ea, type: 3}
+  - cost: 52000
+    sprite: {fileID: 21300000, guid: 0569e5b3f736af44fa13a802bd0134c2, type: 3}
+  - cost: 110
+    sprite: {fileID: 21300000, guid: b34eede78c2c7c348a871151c076a394, type: 3}
+  - cost: 160
+    sprite: {fileID: 21300000, guid: fb288051646e3fb4899c595728fb6003, type: 3}
+  - cost: 70000
+    sprite: {fileID: 21300000, guid: c8435dfd0e017ae4d9720f500dfcaad0, type: 3}
+  - cost: 210
+    sprite: {fileID: 21300000, guid: a255d582eb12b9b48bfed5acbdb8c419, type: 3}
+  - cost: 230
+    sprite: {fileID: 21300000, guid: 74cadd5706b29c34ab57fd1d8370cf1c, type: 3}
+  - cost: 80000
+    sprite: {fileID: 21300000, guid: aa7d865117b2630419258a17a71ee57e, type: 3}
+  - cost: 310
+    sprite: {fileID: 21300000, guid: 0aa0a6c9068e8fa4c8516b0de13b25f2, type: 3}
+  - cost: 350
+    sprite: {fileID: 21300000, guid: 481ef4c2d8319924594d5696e0f40537, type: 3}
+  - cost: 81000
+    sprite: {fileID: 21300000, guid: 305b98642671d9e48ab5cb6ed38231ee, type: 3}
+  - cost: 410
+    sprite: {fileID: 21300000, guid: bf88a5bd9a32f3a46a24781cf020d8cf, type: 3}
+  - cost: 500
+    sprite: {fileID: 21300000, guid: 661f7c73971d8a54b933d2b343ce6946, type: 3}

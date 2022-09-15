@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: efb0ca1c50833d14f91f673b67ca39f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4024542166372034146
+    second: LobyChudicks_0
+  - first:
+      213: 227787045186460339
+    second: LobyChudicks_1
+  - first:
+      213: -4287791463022021415
+    second: LobyChudicks_2
+  - first:
+      213: 2989410642097348892
+    second: LobyChudicks_3
+  - first:
+      213: -2742627556642276699
+    second: LobyChudicks_4
+  - first:
+      213: -8702242233378253004
+    second: LobyChudicks_5
+  - first:
+      213: -3983245011517126835
+    second: LobyChudicks_6
+  - first:
+      213: 7961717864660692241
+    second: LobyChudicks_7
+  - first:
+      213: 2245767246793774514
+    second: LobyChudicks_8
+  - first:
+      213: 2583471691868437196
+    second: LobyChudicks_9
+  - first:
+      213: 1620194662097793420
+    second: LobyChudicks_10
+  - first:
+      213: -4874054023476513128
+    second: LobyChudicks_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LobyChudicks_0
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 27
+        width: 705
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266af2207cb0ad730800000000000000
+      internalID: 4024542166372034146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobyChudicks_1
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 272
+        width: 625
+        height: 777
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba56c85c13492300800000000000000
+      internalID: 227787045186460339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobyChudicks_2
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1101
+        width: 712
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4be9fc164be74c0800000000000000
+      internalID: -4287791463022021415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobyChudicks_3
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1296
+        width: 355
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c112cf1f3258c7920800000000000000
+      internalID: 2989410642097348892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobyChudicks_4
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1296
+        width: 968
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aab32fa4ca30f9d0800000000000000
+      internalID: -2742627556642276699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobyChudicks_5
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 770
+        width: 210
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43756129bcc6b3780800000000000000
+      internalID: -8702242233378253004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobyChudicks_6
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1052
+        width: 1001
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47cc2324cba8b8c0800000000000000
+      internalID: -3983245011517126835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobyChudicks_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1095
+        width: 796
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d6bf40734bd7e60800000000000000
+      internalID: 7961717864660692241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobyChudicks_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 524
+        width: 751
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5995199619a2f10800000000000000
+      internalID: 2245767246793774514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobyChudicks_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 14
+        width: 710
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca7811e0d55ad320800000000000000
+      internalID: 2583471691868437196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobyChudicks_10
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 1432
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81b25506761c7610800000000000000
+      internalID: 1620194662097793420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobyChudicks_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2960
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8967e9280b1eb5cb0800000000000000
+      internalID: -4874054023476513128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LobyChudicks_3: 2989410642097348892
+      LobyChudicks_2: -4287791463022021415
+      LobyChudicks_10: 1620194662097793420
+      LobyChudicks_11: -4874054023476513128
+      LobyChudicks_4: -2742627556642276699
+      LobyChudicks_0: 4024542166372034146
+      LobyChudicks_9: 2583471691868437196
+      LobyChudicks_5: -8702242233378253004
+      LobyChudicks_8: 2245767246793774514
+      LobyChudicks_1: 227787045186460339
+      LobyChudicks_6: -3983245011517126835
+      LobyChudicks_7: 7961717864660692241
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
