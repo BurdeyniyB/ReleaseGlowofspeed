@@ -26,7 +26,6 @@ public class Recovery : MonoBehaviour
     private int SuccessUpdate;
     private string load;
 
-
     private int lvlrecovery = 1;
     private int procentrecovery;
     private int chargesrecovery;
